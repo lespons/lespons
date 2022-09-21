@@ -2,22 +2,16 @@
 
 ## Software Engineer
 
-> *8 years of experience*
+> experienced from 2014
 
 ### Highlights
 
-- 7+ years of experience in web development (JavaScript/TypeScript/CSS ) (in progress)
-- 3+ years TypeScript + React + NextJs (in progress)
-- 1 year dart/flutter/kotlin (android)
-- 2 years of experience in Java web development (outdated)
-- 1 years of experience in C# development (outdated)
-
 ### Skill summary
 
-- Programming Languages: **JavaScript, TypeScript**, Dart, Kotlin, python (, NodeJS, Java, C#, C);
+- Programming Languages: **JavaScript, TypeScript**, NodeJS,(Dart, Kotlin, python,Java, C#, C);
 - Frameworks and libraries: **ReactJs (Next.js)**, Angular 2+, Flutter, VueJS (, AngularJS, PolymerJS);
-- Databases: **Firestore, SqlLite** (CouchDB, MySQL, PSQL, MongoDB, RDF)
-- VCS: GIT (Github, Bitbucket, GitLab);
+- Databases: **MongoDB, Firestore, SqlLite** (CouchDB, MySQL, PSQL, RDF)
+- VCS: GIT (Github, Bitbucket);
 - Bug tracking systems and etc: Jira, … ;
 - OS: Mac, Windows, Linux.
 
