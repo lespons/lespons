@@ -7,13 +7,19 @@
 ### Highlights
 
 ### Skill summary
+Front-End
+- core (react/nextjs) - typescript/javascript
+- api (apollo graphql/rest/ws)
+- tests (storybook, testing-library/react)
+- styles (styled-components/chakra-ui/mantine/custom) - scss
 
-- Programming Languages: **JavaScript, TypeScript**, NodeJS,(Dart, Kotlin, python,Java, C#, C);
-- Frameworks and libraries: **ReactJs (Next.js)**, Angular 2+, Flutter, VueJS (, AngularJS, PolymerJS);
-- Databases: **MongoDB, Firestore, SqlLite** (CouchDB, MySQL, PSQL, RDF)
-- VCS: GIT (Github, Bitbucket);
-- Bug tracking systems and etc: Jira, … ;
-- OS: Mac, Windows, Linux.
+Back-End
+- core (node.js) - typescript/javascript
+- api (graphql, rest, grpc)
+- event systems (kafka - Azure events hub, rabbitMQ)
+- database systems (mongodb, sql, firebase, redis)
+- devops (kubernetes, docker, azure, monitoring tools)
+- tests (mocha, chai, sinon, jest)
 
 ### Education
 
